@@ -9,7 +9,7 @@ int main()
     cout<<"Please enter your first name: ";
     string name;
     cin>>name;
-    cout<<'Hello, '<<name<<'!'<<endl;
+    cout<<"Hello, "<<name<<"!"<<endl;
 
     cout<<"Enter all your homework grades, ";
     double midterm,final;
